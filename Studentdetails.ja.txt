@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    String name = "Mouni";
+	    long regno = 732724205038l;
+	    String department = "IT";
+	    float CGPA = 8.5f;
+	   	System.out.println(name);
+		System.out.println(regno);
+		System.out.println(department);
+		System.out.println(CGPA);
+		
+	}
+}
